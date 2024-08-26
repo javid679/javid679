@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong background in front-end development, backend development, full-stack, and Data Science . I recently completed my Master's in Computer Science from Purdue University and have had the opportunity to work at some of the leading tech companies, including Amazon and Accenture.
+Hey there! I’m Javeed Mohammad, a coder who loves to tinker, build, and explore new tech territories. This GitHub is my map of all the cool stuff I’ve been working on—each project a landmark in my coding journey. I'm a passionate software engineer with a strong background in front-end development, backend development, full-stack, and Data Science . I recently completed my Master's in Computer Science from Purdue University and have had the opportunity to work at some of the leading tech companies, including Amazon and Accenture.
 ## 🚀 About Me<br>
 👨🏻‍🎓 Master’s in Computer Science @ Purdue University<br>
 👨‍💻 Ex-Software Engineer @ Accenture<br>
@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 🌐 Passionate about technology and driven to create solutions that make a difference.<br>
 
 🛠 Skills
-♨ Languages: Python, C#, JavaScript, Java, R<br>
-⛁ Databases: PostgreSQL, MySQLs, SQL Server<br>
-🧩 Frameworks:  ASP.NET, Angular.js, Reac.js, Node.js, Django, Spring Boot, REST API<br>
+♨ Languages: Python, C#, JavaScript (Vanilla.js), Java, R<br>
+⛁ Databases: MongoDB, PostgreSQL, MySQLs, SQL Server<br>
+🧩 Frameworks: React.js, Node.js, Express.js, Django-REST API, Spring Boot<br>
 ☁️ Cloud Service Providers: AWS (AWS Certified Solutions Architect – Associate)
-⚙️ Tools: Docker, Git, Power BI, Tableau<br>
+⚙️ Tools: Git, Figma<br>
 .. and follow my LinkedIn for more information:https://www.linkedin.com/in/javid-muhammad679/
 
 ## 📈 GitHub Stats
@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 
 
 🌟 Featured Projects<br>
-💡 Study Spot: An educational website using React.js, Node.js, MongoDB<br>
+💡 Study Spot: An educational website using React.js, Node.js, Express.js, MongoDB MongoDB<br>
 🖼️ <br>
-📊 Customer Pattern Analysis: Executed customer segmentation with clustering techniques.<br>
+📊 .<br>
 
 📫 Get in Touch
 Email: javid.md.679@gmail.com

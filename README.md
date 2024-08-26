@@ -7,7 +7,7 @@ Hey there! I’m Javeed Mohammad, a coder who loves to tinker, build, and explor
 
 🌐 Passionate about technology and driven to create solutions that make a difference.<br>
 
-🛠 Skills
+## 🛠 Skills<br>
 ♨ Languages: Python, C#, JavaScript (Vanilla.js), Java, R<br>
 ⛁ Databases: MongoDB, PostgreSQL, MySQLs, SQL Server<br>
 🧩 Frameworks: React.js, Node.js, Express.js, Django-REST API, Spring Boot<br>

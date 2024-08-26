@@ -22,10 +22,5 @@ Hey there! I’m Javeed Mohammad, a coder who loves to tinker, build, and explor
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javid679&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🌟 Featured Projects<br>
-💡 the_study_spot: An educational website using React.js, Node.js, Express.js, MongoDB MongoDB<br>
-🖼️ <br>
-📊 .<br>
-
 📫 Get in Touch
 Email: javid.md.679@gmail.com

@@ -23,7 +23,7 @@ Hey there! I’m Javeed Mohammad, a coder who loves to tinker, build, and explor
 
 
 🌟 Featured Projects<br>
-💡 Study Spot: An educational website using React.js, Node.js, Express.js, MongoDB MongoDB<br>
+💡 the_study_spot: An educational website using React.js, Node.js, Express.js, MongoDB MongoDB<br>
 🖼️ <br>
 📊 .<br>
 

@@ -11,7 +11,7 @@ Hey there! I’m Javeed Mohammad, a coder who loves to tinker, build, and explor
 ♨ Languages: Python, C#, JavaScript (Vanilla.js), Java, R<br>
 ⛁ Databases: MongoDB, PostgreSQL, MySQLs, SQL Server<br>
 🧩 Frameworks: React.js, Node.js, Express.js, Django-REST API, Spring Boot<br>
-☁️ Cloud Service Providers: AWS (AWS Certified Solutions Architect – Associate)
+☁️ Cloud Service Providers: AWS (AWS Certified Solutions Architect – Associate)<br>
 ⚙️ Tools: Git, Figma<br>
 .. and follow my LinkedIn for more information:https://www.linkedin.com/in/javid-muhammad679/
 

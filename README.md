@@ -13,6 +13,7 @@ Hey there! I’m Javeed Mohammad, a computer science grad who loves to tinker, b
 🧩 Frameworks: React.js, Node.js, Express.js, Django-REST API, Spring Boot<br>
 ☁️ Cloud Service Providers: AWS (AWS Certified Solutions Architect – Associate)<br>
 ⚙️ Tools: Git, Figma<br>
+<br>
 .. and follow my LinkedIn for more information:https://www.linkedin.com/in/javid-muhammad679/
 
 ## 📈 GitHub Stats
